@@ -46,7 +46,7 @@ class _SlidablePageState extends State<SlidablePage> {
                 backgroundColor: Colors.red,
                 foregroundColor: Colors.white,
                 icon: Icons.delete,
-                label: "delete",
+                label: "delete", 
               )
             ],
           ),
